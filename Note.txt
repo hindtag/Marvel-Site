@@ -1,0 +1,61 @@
+1. prepare the image assets
+
+2. start with the head element
+    stylesheet
+    font awesome
+
+3. create the header/hero section (logo, h1 and text for the hero image)
+
+4. Styling the header/hero (showcase) under css
+    root
+    reset *
+    body
+    ul
+    h1, h2, h3, h4
+    a
+    p
+    img
+    .showcase
+    .showacse-top
+    .showcase-top img
+    .showcase-top a
+    .btn
+    .btn:hover
+    .btn-rounded
+    .btn-xl
+    .btn-l
+
+    This time the menu/nav is fixed, you can now continue with the other hero image layout.
+    .showcase-content
+    .showcase-content h1
+    .showcase-content p
+
+    This time you can now adjust some overlay using sudo element (See the showcase)
+    .showcase::after (background, shadow and z-index in particular)
+    Modifying the z-index of the nav and content to make it appear on top
+
+5. Section Tabs (This is after the hero section)
+    create section after the header
+    create divs
+
+6. Styling the tabs with CSS
+    Creating utility classes (.container)
+    .tabs
+    .tabs .container
+    .tabs p
+    .tabs .container > div
+    .tabs .container > div:hover
+    .tabs-border
+
+7. Next section content (after tabs)
+    create section
+    create divs
+
+8. Styling all the content section
+    the grid display, layout in particular
+
+
+Tips: start from the top, follow the HTML semantics when doing the CSS styling.
+
+
+Continue on 59:00
