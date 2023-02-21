@@ -58,4 +58,4 @@
 Tips: start from the top, follow the HTML semantics when doing the CSS styling.
 
 
-Continue on 59:00
+Continue on 1:22:00
